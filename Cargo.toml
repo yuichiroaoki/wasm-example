@@ -1,7 +1,7 @@
 [package]
 name = "wasm-example"
 version = "0.1.0"
-authors = ["yuichiroaoki <yuichiroaokigcpproject@gmail.com>"]
+authors = ["yuichiroaoki"]
 edition = "2018"
 
 [lib]
