@@ -9,3 +9,7 @@ extern {
 pub fn greet() {
     alert("Hello, wasm-example!");
 }
+
+pub fn start() {
+
+}
